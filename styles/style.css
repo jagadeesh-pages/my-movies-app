@@ -153,8 +153,16 @@ body {
     display: grid;
 }
 
+#favorites.active {
+    display: block;
+}
+
 #favorites.active .movies-grid {
     display: grid;
+}
+
+#sync.active {
+    display: block;
 }
 
 .movies-grid {
