@@ -1,4 +1,4 @@
-// TODO: Replace with your Firebase config from Firebase Console
+// Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyB5aKxk-8cr0V8g7QseG8m3esiHTNz-fms",
   authDomain: "my-movies-833c3.firebaseapp.com",
